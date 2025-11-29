@@ -1,7 +1,3 @@
-Aqui está um **README profissional**, claro e bem estruturado para colocar no seu GitHub no projeto *Pinterest Fake*.
-Você só precisa copiar e colar no arquivo **README.md** do repositório.
-
-Se quiser, posso personalizar com prints, GIFs, badges, ou um visual mais avançado.
 
 ---
 
